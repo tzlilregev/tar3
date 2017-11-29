@@ -10,5 +10,6 @@ public partial class _Default : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         string i = "elior";
+        string i1 = "einva";
     }
 }
